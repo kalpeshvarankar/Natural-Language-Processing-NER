@@ -5,25 +5,23 @@ A dataset was provided containing a corpus of medical text. The text includes di
 
 To make this information accessible to everyone, the aim was to build a supervised Named Entity Recognition (NER) model. This model would learn to extract and display viable treatment options for a given disease, making it easier for people to understand and access relevant medical information.
 
+![alt text](https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/path/to/text.JPG)
+
+
 ## Table of Contents
-- General Information
-- [Datasets](#datasets)
-- [Usage](#usage)
-- [Requirements](#requirements)
-- [Installation](#installation)
+- [General Information]
+- [Technologies used](#datasets)
 
-## Description
+## General Information
+- Data preprocessing
+- Concept identification
+- Defining the features for CRF
+- Getting the features words and sentences
+- Defining input and target variables
+- Building the model
+- Evaluating the model
+- Identifying the diseases and predicted treatment using a custom NER
 
-
-
-## Datasets
-
-The datasets used in this project is as follows:
-
-- `train_sent`: containing 2,599 sentences in the medical domain
-- `test_sent`: containing 1,056 sentences in the medical domain
-- `train_label`: containing labels corresponding to the words in `train_sent`
-- `test_label`: containing labels corresponding to the words in `test_sent`
-
-
-
+## Technologies used
+- SpaCy
+- sklearn-crfsuite
