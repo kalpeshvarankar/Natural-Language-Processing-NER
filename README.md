@@ -7,8 +7,8 @@ To make this information accessible to everyone, the aim was to build a supervis
 
 <table>
   <tr>
-    <td><img src="Display/text_example.jpg" alt="Image 1" style="width:600px; height:360px;"></td>
-    <td><img src="Display/Diagram.png" alt="Image 2" style="width:400px; height:360px;"></td>
+    <td><img src="Display/text_example.jpg" alt="Image 1" style="width:600px; height:320px;"></td>
+    <td><img src="Display/Diagram.png" alt="Image 2" style="width:400px; height:320px;"></td>
   </tr>
 </table>
 
