@@ -5,7 +5,6 @@ A dataset was provided containing a corpus of medical text. The text includes di
 
 To make this information accessible to everyone, the aim was to build a supervised Named Entity Recognition (NER) model. This model would learn to extract and display viable treatment options for a given disease, making it easier for people to understand and access relevant medical information.
 
-
 <table>
   <tr>
     <td><img src="Display/text_example.jpg" alt="Image 1" style="width:600px; height:320px;"></td>
