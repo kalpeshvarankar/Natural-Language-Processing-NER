@@ -14,7 +14,7 @@ To make this information accessible to everyone, the aim was to build a supervis
 
 
 ## Table of Contents
-- [General Information]
+- [General Information](#generalinfo)
 - [Technologies used](#datasets)
 
 ## General Information
