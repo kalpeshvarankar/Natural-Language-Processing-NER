@@ -1,6 +1,8 @@
 # Custom NER for Healthcare
 
-This project is designed to enhance your knowledge on Name Entity Recognition (NER) and its applications in healthcare. In this project, you will learn how to build a custom NER to extract disease names and their treatments from medical datasets.
+## Problem Statement:
+
+
 
 ## Table of Contents
 - [Description](#description)
