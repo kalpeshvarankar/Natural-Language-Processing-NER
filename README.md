@@ -7,7 +7,7 @@ To make this information accessible to everyone, the aim was to build a supervis
 
 <div style="display:flex; flex-direction:row;">
     <img src="Display/text_example.jpg" alt="Image 1" style="width:600px; height:380px; margin-right: 50px;">
-    <img src="Display/Diagram.png" alt="Image 2" style="width:400px; height:380px;">
+    <img src="Display/Diagram.png" alt="Image 2" style="width:450px; height:380px;">
 </div>
 
 
